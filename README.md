@@ -1,6 +1,6 @@
-# Márcio Gomes (Aduil)
+## Hi 👋 I am Márcio Gomes (Aduil)!
 
-Software Engineer at @Itau
+🏢 Software Engineer at **@Itau**
 
 [![Twitter Badge](https://img.shields.io/badge/-@gmarcio-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/gmarcio)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcio%20Aduil-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcioaduil/)](https://www.linkedin.com/in/marcioaduil/) 
